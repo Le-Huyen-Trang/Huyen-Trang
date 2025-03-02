@@ -5,6 +5,6 @@ function login()
   if (u=="trang" && p=="08122007")
   {
     window.open("home.html")
-    documet.getElementById(compliler).styledisplay="block"
+    documet.getElementById(compliler).style.display="block"
   }
 }  
