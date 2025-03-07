@@ -4,7 +4,7 @@ function login()
   let p = pass.value
   if (u=="trang" && p=="08122007")
   {
-    window.open("content/home.html")
+    window.open("Contents/home.html")
     documet.getElementById(compliler).style.display="block"
   }
 }  
