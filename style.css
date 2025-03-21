@@ -5,5 +5,5 @@ li{font-size: 35px;}
 .header{color: PaleVioletRed; background-color: #fff0f5; text-align: center; padding: 20px;}
 .thucdon{background-color: #ffb6c1;display: block;}
 .thucdon a{background-color: #ffb6c1;}
-.thucdon a: hover{color: LavenderBlush; padding: 20px;}
+.thucdon a hover{color: LavenderBlush; padding: 20px;}
 .noidung{background:#fff5ee;}
