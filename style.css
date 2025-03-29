@@ -2,8 +2,8 @@ h1{color: FireBrick;}
 html{ font-family: Times New Roman;}
 p{color: Sienna; font-size: 25px;}
 li{font-size: 35px;} 
-.header{color: PaleVioletRed; background-color: #fff0f5; text-align: center; padding: 20px;}
-.thucdon{background-color: Gray;display: block;text-align: center; padding: 30px; margin: 20px;}
-.thucdon a{background-color: #ffb6c1;text-align: center; }
+.header{color: PaleVioletRed; background-color: #fff0f5; text-align: center; padding: 30px;}
+.thucdon{background-color:#ffb6c1 ;display: block;text-align: center; padding: 20px;}
+.thucdon a{background-color: Gainsboro;text-align: center; }
 .thucdon a: hover{color: Cornsilk;}
-.noidung{background:#fff5ee;}
+.noidung{background:#fff5ee;margin: 20px;}
