@@ -4,6 +4,6 @@ p{color: Sienna; font-size: 25px;}
 li{font-size: 35px;} 
 .header{color: PaleVioletRed; background-color: #fff0f5; text-align: center; padding: 30px;}
 .thucdon{background-color:#ffb6c1 ;display: block;text-align: center; padding: 20px;}
-.thucdon a{background-color: Gainsboro;text-align: center; }
+.thucdon a{background-color: Gainsboro;text-align: center; display: block; }
 .thucdon a: hover{color: Cornsilk;}
 .noidung{background:#fff5ee;margin: 10px;}
